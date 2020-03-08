@@ -9,4 +9,7 @@ public class TestGit {
         System.out.println("hello git project!");
         System.out.println("hello git project!");
     }
+    public void test(){
+        System.out.println("sadfkhaslfjh");
+    }
 }
