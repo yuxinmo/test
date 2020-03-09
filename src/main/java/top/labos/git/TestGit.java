@@ -14,14 +14,13 @@ public class TestGit {
     public static void main(String[] args) {
         System.out.println("hello git project!");
         System.out.println("hello git project!");
-        System.out.println("hello git project!");
-        System.out.println("hello git project!");
+        //此处删除两行
         System.out.println("hello git project!");
         System.out.println("hello git project!");
     }
     public void test(){
         System.out.println("sadfkhaslfjh");
-        System.out.println("sadfkhaslfjh");
+        //此处删除一行
         System.out.println("sadfkhaslfjh");
     }
     public void test2(){
