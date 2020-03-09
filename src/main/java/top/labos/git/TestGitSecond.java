@@ -9,8 +9,8 @@ public class TestGitSecond {
         System.out.println("hello git project!");
         System.out.println("hello git project!");
     }
-    public void test(){
-        System.out.println("sadfkhaslfjh");
+    public void tryYour(){
+        System.out.println("GitHub修改了一次");
         System.out.println("sadfkhaslfjh");
         System.out.println("sadfkhaslfjh");
     }
