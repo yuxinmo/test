@@ -2,6 +2,8 @@ package top.labos.git;
 
 public class TestGitSecond {
     public static void main(String[] args) {
+        TestGitSecond testGitSecond = new TestGitSecond();
+        testGitSecond.tryInfo();
     }
     public void tryYour(){
         System.out.println("GitHub修改了一次");
