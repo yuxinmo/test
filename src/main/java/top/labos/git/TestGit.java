@@ -20,12 +20,16 @@ public class TestGit {
     }
     public void test(){
         System.out.println("sadfkhaslfjh");
-        //此处删除一行
-        System.out.println("sadfkhaslfjh");
+        //此处删除两行
     }
     public void test2(){
         System.out.println("sadfkhaslfjh");
         System.out.println("sadfkhaslfjh");
         System.out.println("我是最新修改的，在GitHub里修改的");
+    }
+    public void test3(){
+        System.out.println("sadfkhaslfjh");
+        System.out.println("sadfkhaslfjh");
+        System.out.println("我是最新修改的，在GitHub里修改的2");
     }
 }
