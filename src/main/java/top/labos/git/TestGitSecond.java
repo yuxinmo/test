@@ -2,12 +2,6 @@ package top.labos.git;
 
 public class TestGitSecond {
     public static void main(String[] args) {
-        System.out.println("hello git project!");
-        System.out.println("hello git project!");
-        System.out.println("hello git project!");
-        System.out.println("hello git project!");
-        System.out.println("hello git project!");
-        System.out.println("hello git project!");
     }
     public void tryYour(){
         System.out.println("GitHub修改了一次");
