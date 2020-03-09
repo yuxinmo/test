@@ -11,7 +11,7 @@ public class TestGitSecond {
     public void info(){
         System.out.println("先update project（pull），再push");
         System.out.println("的身份根深蒂固山豆根");
-        System.out.println("sadfkhaslfjh");
+        //删除一行
         System.out.println("我是再gitTest里面的");
     }
 
