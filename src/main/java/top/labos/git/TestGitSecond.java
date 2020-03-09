@@ -18,6 +18,7 @@ public class TestGitSecond {
         System.out.println("先update project（pull），再push");
         System.out.println("的身份根深蒂固山豆根");
         System.out.println("sadfkhaslfjh");
+        System.out.println("我是最新修改aaa:test");
     }
 
 }
