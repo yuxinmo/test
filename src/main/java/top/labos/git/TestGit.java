@@ -24,4 +24,9 @@ public class TestGit {
         System.out.println("sadfkhaslfjh");
         System.out.println("sadfkhaslfjh");
     }
+    public void test2(){
+        System.out.println("sadfkhaslfjh");
+        System.out.println("sadfkhaslfjh");
+        System.out.println("我是最新修改的，在GitHub里修改的");
+    }
 }
