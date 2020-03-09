@@ -14,10 +14,8 @@ public class TestGitSecond {
         System.out.println("sadfkhaslfjh");
         System.out.println("sadfkhaslfjh");
     }
-
-
     public void info(){
-        System.out.println("我是gitTest项目！！！");
+        System.out.println("先update project（pull），再push");
         System.out.println("sadfkhaslfjh");
         System.out.println("sadfkhaslfjh");
     }

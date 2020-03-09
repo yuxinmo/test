@@ -9,6 +9,8 @@ package top.labos.git;
  * .iml文件和.idea文件夹：
  *      .iml是 intellij idea的工程配置文件，里面是当前project的一些配置信息。
  *      .idea存放项目的配置信息，包括历史记录，版本控制信息等。
+ * 如果不是基于 GitHub 远程库的最新版所做的修改， 不能推送， 必须先拉
+ * 取。拉取下来后如果进入冲突状态， 则按照“分支冲突解决” 操作解决即可
  */
 public class TestGit {
     public static void main(String[] args) {
